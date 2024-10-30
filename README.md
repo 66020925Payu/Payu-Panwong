@@ -1,10 +1,12 @@
-<!-- ![Divyanshu Yadav (5)](https://user-images.githubusercontent.com/91051053/190860704-48723df0-5c19-465a-afae-b94973bfc74b.png) -->
-# Hi , I'm Payu Panwong
- 
-<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
- ![image](https://github.com/user-attachments/assets/d2508a1b-d23f-4593-a36d-81d24b6bf33c)
+<h1 align="center">Hi 👋, I'm Payu Panwong</h1>
 
- 
+![image](https://github.com/user-attachments/assets/004c698b-53c3-4c6a-9069-9489f61bb422)
 
- 
- 
+
+
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
